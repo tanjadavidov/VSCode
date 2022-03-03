@@ -1,2 +1,3 @@
 # VSCode
-Ovo je Java Script project Tanja
+Ovo je Java Script project 
+This is just for chack up
