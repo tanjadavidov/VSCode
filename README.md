@@ -1,2 +1,2 @@
 # VSCode
-Ovo je Java Script project
+Ovo je Java Script project Tanja
